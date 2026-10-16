@@ -1,0 +1,11 @@
+export * from './types';
+export { getLandingContent } from './landing';
+export { getFeaturesIndex, getFeatureBySlug, PILLARS } from './features';
+export { getRolesContent } from './roles';
+export { getPricingContent } from './pricing';
+export { getPopiaContent } from './popia';
+export { getSaasContent } from './saas';
+export { getAboutContent } from './about';
+export { getContactContent } from './contact';
+export { getPrivacyContent } from './privacy';
+export { getTermsContent } from './terms';
